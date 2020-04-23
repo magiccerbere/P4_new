@@ -659,7 +659,7 @@ a {
     max-width: 1000px;
 }
 
-.hero-bloc-text {
+.hero-bloc-text{
     font-size: 38px;
 }
 
@@ -724,7 +724,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #333333;
 }
 
 h4 {
