@@ -709,12 +709,12 @@ blockquote p, #intro{
     margin: auto auto auto auto;
 }
 
-h3 {
+h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
 
-h4 {
+h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
@@ -731,7 +731,7 @@ h2 {
     color: #333333;
 }
 
-h4 {
+h3 {
     color: #333333!important;
 }
 
