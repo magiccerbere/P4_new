@@ -681,6 +681,10 @@ p {
     font-size: 11px;
 }
 
+blockquote p, #intro{
+    font-size: large;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
