@@ -737,6 +737,10 @@ h3 {
     color: #333333!important;
 }
 
+#bloc-5-cta h3{
+    font-size: larger;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
