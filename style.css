@@ -288,6 +288,10 @@ a:hover {
     font-size: 32px;
 }
 
+#bloc-8 p{
+    color: black;
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -652,7 +656,6 @@ h4,
 h5,
 h6,
 cite,
-p,
 label,
 .btn,
 a {
@@ -854,7 +857,7 @@ h3 {
 
 .legacy
 {
-    font-size: 1.4em;
+    font-size: 1em;
 }
 
 #bloc-3-what-i-do .mg-md
