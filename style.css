@@ -640,12 +640,18 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
+cite
+{
+    font-size: larger;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6,
+cite,
 p,
 label,
 .btn,
@@ -848,7 +854,7 @@ h3 {
 
 .legacy
 {
-    font-size: 1.2em;
+    font-size: 1.4em;
 }
 
 #bloc-3-what-i-do .mg-md
