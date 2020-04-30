@@ -593,7 +593,7 @@ margin:auto auto auto auto}
 
 p
 {
-font-size:11px}
+font-size:13px}
 
 #intro,blockquote p
 {
@@ -651,7 +651,9 @@ color:#333!important}
 
 #bloc-5-cta h3
 {
-font-size:larger}
+font-size:larger;
+text-transform: none;
+}
 
 .icons
 {
@@ -1005,4 +1007,5 @@ font-size:1.3em}
 
 h1
 {
-font-family:Devonshire}
+    font-family: 'Cormorant', serif;}
+    
